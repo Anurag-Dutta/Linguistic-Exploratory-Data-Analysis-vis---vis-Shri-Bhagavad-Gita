@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  13 FEB 2023 17:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.9.27)  13 FEB 2023 17:35
 entering extended mode
 **./sn-article.tex
 (sn-article.tex
@@ -619,64 +619,16 @@ File: 2.png Graphic file (type png)
 <use 2.png>
 Package pdftex.def Info: 2.png  used on input line 124.
 (pdftex.def)             Requested size: 347.12354pt x 197.51344pt.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.128 ...V7xyoRjqFVVog5__W6APEL5GY?usp=share_link}
-                                                  
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
-
-! Missing { inserted.
-<to be read again> 
-                   _
-l.128 ...V7xyoRjqFVVog5__W6APEL5GY?usp=share_link}
-                                                  
-A left brace was mandatory here, so I've put one in.
-You might want to delete and/or insert some corrections
-so that I will find a matching right brace soon.
-(If you're confused by all this, try typing `I}' now.)
-
-! Missing } inserted.
-<inserted text> 
-                }
-l.128 ...V7xyoRjqFVVog5__W6APEL5GY?usp=share_link}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-! Missing $ inserted.
-<inserted text> 
-                $
-l.128 ...V7xyoRjqFVVog5__W6APEL5GY?usp=share_link}
-                                                  
-I've inserted something that you may have forgotten.
-(See the <inserted text> above.)
-With luck, this will get me unwedged. But if you
-really didn't forget anything, try typing `2' now; then
-my insertion and my current dilemma will both disappear.
-
-
-Overfull \hbox (191.06178pt too wide) in paragraph at lines 114--129
-\OT1/cmr/m/n/10 Cloud can be vi-su-al-ized from [][]https://colab.research.goog
-le.com/drive/1Xs8C7$[]\OML/cmm/m/it/10 V\OT1/cmr/m/n/10 7\OML/cmm/m/it/10 xyoRj
-qFVVog\OT1/cmr/m/n/10 5[]$[][] 
- []
-
-[8] [9 <./1.png> <./2.png>] (sn-article.aux)
+ [8] [9 <./1.png> <./2.png>] (sn-article.aux)
 Package rerunfilecheck Info: File `sn-article.out' has not changed.
 (rerunfilecheck)             Checksum: 5EA7B592E9DEB0A9CA68B13C578CB998;392.
  ) 
 Here is how much of TeX's memory you used:
- 10511 strings out of 478927
- 153820 string characters out of 2849181
- 473941 words of memory out of 3000000
- 28189 multiletter control sequences out of 15000+600000
- 408471 words of font info for 46 fonts, out of 8000000 for 9000
+ 10516 strings out of 478927
+ 153874 string characters out of 2849181
+ 473943 words of memory out of 3000000
+ 28192 multiletter control sequences out of 15000+600000
+ 408975 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,7n,66p,1910b,334s stack positions out of 5000i,500n,10000p,200000b,80000s
 <C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfo
@@ -684,20 +636,18 @@ nts/cm/cmbx10.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/ty
 pe1/public/amsfonts/cm/cmbx12.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs
 /MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/Anurag Dutta/AppData
 /Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbxti10.pfb><C:/Users/An
-urag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.
-pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
-fonts/cm/cmmi5.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/t
-ype1/public/amsfonts/cm/cmmi7.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs
-/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/Anurag Dutta/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/Anurag
- Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C
-:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmti10.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/
-public/amsfonts/cm/cmti9.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on sn-article.pdf (9 pages, 491534 bytes).
+urag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/cm/cmr7.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/amsfonts/cm/cmr9.pfb><C:/Users/Anurag Dutta/AppData/Local/Programs/Mi
+KTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/Anurag Dutta/AppData/L
+ocal/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti9.pfb><C:/Users/Anurag 
+Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb><
+C:/Users/Anurag Dutta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmtt9.pfb>
+Output written on sn-article.pdf (9 pages, 469881 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
+ 145 PDF objects out of 1000 (max. 8388607)
  35 named destinations out of 1000 (max. 500000)
  19 words of extra memory for PDF output out of 10000 (max. 10000000)
 
